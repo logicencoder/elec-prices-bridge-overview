@@ -1,5 +1,7 @@
 # Power Center — European Electricity Dashboard
 
+![European electricity market comparison](assets/overview-2026-10-24.png)
+
 Electricity-market information is more useful when prices can be read alongside demand, generation and cross-border activity. Power Center brings these views into one European dashboard, helping users compare markets and understand the context around a price change.
 
 ## Tech stack
