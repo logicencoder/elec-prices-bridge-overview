@@ -12,31 +12,31 @@ Electricity-market information is more useful when prices can be read alongside 
 
 ## Compare European markets
 
-Zone cards and market selection make it possible to move between supported countries and bidding areas. Readable market names help users orient themselves before exploring the details. The dashboard uses published ENTSO-E information where it is available.
+The **Overview** shows all tracked bidding zones at a glance: average day-ahead prices, changes against the previous day and the cheapest windows, with chips for how many zones currently return prices and how many of the eight tracked datasets returned data in the last cycle. **Compare** ranks zones and draws multi-zone curves with spread and volatility, and **Map** is a geographic locator with a tile overview of the selected day's prices. Everything comes from the ENTSO-E Transparency Platform where it is published.
 
 Begin with a familiar market or compare several supported areas. Consistent navigation makes it easier to carry a question from the broad European picture into the information available for a particular zone.
 
 ## Explore prices and history
 
-Price views and heatmaps help compare intervals and recognise patterns over time. A day-and-hour history view provides a broader perspective than the latest value. Published time intervals and available coverage matter when comparing one period with another.
+**Prices** shows hourly day-ahead prices as a zone-by-hour heatmap, and **History** shows a day-by-hour price heatmap over 14 to 60 days. The native 15-minute prices are averaged into local clock hours, and the cheapest three-hour window of a day is marked. Tomorrow's prices appear after the market publishes them around 13:00 CET.
 
 Price history is useful for reviewing an unusual interval or comparing a day with its surroundings. The heatmap adds a quick way to recognise periods worth examining in more detail.
 
 ## Connect demand with production
 
-Load views bring actual and forecast demand into the same working context. Generation-mix and forecast information help examine how electricity supply changes across sources. These views support understanding the market rather than presenting price as a standalone signal.
+**Load** compares actual and forecast system load per zone, and **Generation** shows the mix per fuel type with each fuel's share of total output. A total is shown only for the data that was actually published.
 
 Demand and generation help explain the setting in which prices are observed. Keeping these views together lets users investigate the relationship without collecting each series in a separate place.
 
 ## Review flows and capacity
 
-Cross-border flow views show the available directional information between markets. Capacity comparisons add longer-term context to the generation picture, while imbalance information is available where published. Missing coverage remains important when interpreting a total or comparison.
+**Flows** shows physical cross-border flows and net positions between markets, and **Capacity** shows installed generation capacity per fuel. Where a zone publishes no data for a view, the page says no verified data is available rather than filling the gap.
 
-Directional flows connect the selected market with its neighbours. Capacity and imbalance views add further context where the published sources provide it.
+Directional flows connect the selected market with its neighbours, and installed capacity gives the longer-term context for the generation mix.
 
 ## Return to the information that matters
 
-Navigation between views keeps the selected market central to the investigation. History and available digest subscription controls support following a market beyond one visit. The practical benefit is a connected view of electricity information that would otherwise require several separate searches.
+The **Guide** explains each dataset, unit and term, and **Settings** adjusts colours, font size, density and page size. The page shows the time of the last successful update so the age of every figure is visible.
 
 Explore [Power Center](https://logicencoder.com/european-power-prices/).
 
