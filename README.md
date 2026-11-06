@@ -30,7 +30,7 @@ Demand and generation help explain the setting in which prices are observed. Kee
 
 ## Review flows and capacity
 
-**Flows** shows physical cross-border flows and net positions between markets, and **Capacity** shows installed generation capacity per fuel. Where a zone publishes no data for a view, the page says no verified data is available rather than filling the gap.
+**Flows** shows physical cross-border flows and net positions between markets, and **Capacity** shows installed generation capacity per fuel. **Imbalance** shows, for the newest published day, the hourly imbalance settlement price and the total up and down regulation volumes of the selected control area. Only some control areas publish imbalance data, and it appears with a delay, so the view says so when an area has none. Where a zone publishes no data for a view, the page says no verified data is available rather than filling the gap.
 
 Directional flows connect the selected market with its neighbours, and installed capacity gives the longer-term context for the generation mix.
 
