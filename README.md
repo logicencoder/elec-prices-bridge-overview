@@ -50,3 +50,5 @@ Private code: [elec-prices-bridge](https://github.com/logicencoder/elec-prices-b
 See [REPOS.md](REPOS.md) for related repositories.
 
 **[Logic Encoder](https://logicencoder.com)** · [GitHub](https://github.com/logicencoder) · [Contact](https://logicencoder.com/contact/)
+
+<!-- TODO(screenshots, 2026-11-07): merge load/generation/flow views into fewer images; align the map with the right panel so both bottoms are visible -->
